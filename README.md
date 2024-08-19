@@ -4,7 +4,7 @@ Bio: Software engineer, Digital manager, On internet since 90s, Computers, Codin
 
 Today: Rust, Blockchain
 
-Tomorrow: ML, Quantum, IoT
+~~Tomorrow: ML, Quantum, IoT~~
 
 Always: PHP, Ruby, Python, C
 
@@ -18,3 +18,4 @@ Always: PHP, Ruby, Python, C
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=noroot&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=noroot&theme=github)
+![](https://myreadme.vercel.app/api/embed/noroot?panels=userstatistics,toprepositories,toplanguages,commitgraph)
