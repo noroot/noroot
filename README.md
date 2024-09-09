@@ -18,4 +18,3 @@ Always: PHP, Ruby, Python, C
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=noroot&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=noroot&theme=github)
-![](https://myreadme.vercel.app/api/embed/noroot?panels=userstatistics,toprepositories,toplanguages,commitgraph)
